@@ -1,0 +1,9 @@
+*{ /*Para todas as tags*/
+    margin: 0; /*Margens ao redor da tag*/
+    padding: 0; /*Margens ao redor do conteúdo da tag*/
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
